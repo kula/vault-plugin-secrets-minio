@@ -67,6 +67,11 @@ Lists all configured roles.
 Returns the accessKeyId, secretAccessKey, policy and account status for the
 newly generated key.
 
+## Disclaimer
+
+**Full Disclosure**: At this time I am an employee of HashCorp, but this
+project is entirely personal and is not an official product of HashiCorp, Inc.
+
 [vault]: https://www.vaultproject.io
 [minio]: https://minio.io/
 [helloworld]: https://github.com/daveadams/vault-plugin-secrets-helloworld
