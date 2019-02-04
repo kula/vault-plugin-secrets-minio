@@ -62,7 +62,7 @@ Lists all configured roles.
 
 ### Provisioning keys
 
-    $ vault read b2/keys/example-role
+    $ vault read minio/keys/example-role
 
 Returns the accessKeyId, secretAccessKey, policy and account status for the
 newly generated key.
