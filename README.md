@@ -69,7 +69,7 @@ newly generated key.
 
 ## Disclaimer
 
-**Full Disclosure**: At this time I am an employee of HashCorp, but this
+**Full Disclosure**: At this time I am an employee of HashiCorp, but this
 project is entirely personal and is not an official product of HashiCorp, Inc.
 
 [vault]: https://www.vaultproject.io
